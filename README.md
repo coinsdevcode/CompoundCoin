@@ -22,7 +22,7 @@ Supply:unlimited<br>
 
 
 ## How to compile and use the Linux Deamon
-Tested and working on Ubtunu 14 - 16.04 and 18.04 Version.
+Tested and working on Ubtunu 14 - 16.04 and 18.04 Version.<br>
 Versions 20.04 and later do not currently compile due to changes in OpenSSL 1.1
 and the Boost C++ library in that version.
 
