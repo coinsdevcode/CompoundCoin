@@ -153,8 +153,8 @@ Type:
 help
 ```
 for a full list of commands available.
-## Attention!!!
-Do not keep more than 90,000,000,000 COMP coins in your wallet.
-More than 90,000,000,000 coins becomes a negative balance.
+## Attention!!!<br>
+Do not keep more than 90,000,000,000 COMP coins in your wallet.<br>
+More than 90,000,000,000 coins becomes a negative balance.<br>
 If you are lucky enough to have that much start a second wallet on another computer.
 
