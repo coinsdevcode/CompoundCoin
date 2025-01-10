@@ -108,10 +108,12 @@ It should return an error, telling you to set up config file in a directory.
 ## Create a config file
 
 Now we’ll set up the config file. Note that this is case sensitive.
-```
 Linux
+```
 nano ~/.Compound/Compound.conf
+```
 Winodws
+```
 C:\Users\YourUserName\AppData\Roaming\Compound
 ```
 Add the following, save and exit:
