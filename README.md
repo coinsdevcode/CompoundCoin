@@ -2,23 +2,23 @@
 # CompoundCoin
 
 
-http://compoundcoin.org/            Official Website 
-https://chainz.cryptoid.info/comp/  ( Blockexplorer including API )
-https://comp.ccore.online/          ( Blockexplorer including API )
+http://compoundcoin.org/            Official Website <br>
+https://chainz.cryptoid.info/comp/  ( Blockexplorer including API )<br>
+https://comp.ccore.online/          ( Blockexplorer including API )<br>
 https://comp.coinexplorers.org/     
-
-Hashing algorithm: x11
-Proof type: Proof-of-Stake
-Block time:120 seconds (2 minutes)
-Coin maturity:24 hours
-Staking period:minimum 24 hours
-Staking rewards:
-Up to block 1999999. 31.25% per year
-From block 2000000 to block 2499999. 15.625% per year
-After block 2500000. 7.8125% per year
-Transaction fee:min 0,25 coin
-Coinbase maturity:40 confirmations
-Supply:unlimited
+<br>
+Hashing algorithm: x11<br>
+Proof type: Proof-of-Stake<br>
+Block time:120 seconds (2 minutes)<br>
+Coin maturity:24 hours<br>
+Staking period:minimum 24 hours<br>
+Staking rewards:<br>
+Up to block 1999999. 31.25% per year<br>
+From block 2000000 to block 2499999. 15.625% per year<br>
+After block 2500000. 7.8125% per year<br>
+Transaction fee:min 0,25 coin<br>
+Coinbase maturity:40 confirmations<br>
+Supply:unlimited<br>
 
 
 ## How to compile and use the Linux Deamon
