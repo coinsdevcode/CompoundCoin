@@ -107,7 +107,7 @@ It should return an error, telling you to set up config file in a directory.
 
 ## Create a config file
 
-Now we’ll set up the config file. Note that this is case sensitive.
+Now we’ll set up the config file. Note that this is case sensitive.<br>
 Linux
 ```
 nano ~/.Compound/Compound.conf
