@@ -51,7 +51,7 @@ sudo echo '/swapfile none swap sw 0 0' >> /etc/fstab
 ```
 sudo apt-get update && sudo apt-get upgrade
 sudo apt-get -y install nano ntp unzip git build-essential libssl-dev
-sudo apt-get -y installlibdb-dev libdb++-dev libboost-all-dev libqrencode-dev aptitude
+sudo apt-get -y install libdb-dev libdb++-dev libboost-all-dev libqrencode-dev aptitude
 sudo aptitude -y install miniupnpc libminiupnpc-dev
 ```
 ubuntu 18.04
