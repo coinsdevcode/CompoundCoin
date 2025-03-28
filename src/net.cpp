@@ -1120,6 +1120,11 @@ static const char *strDNSSeed[][2] = {
 	{"compoundnode01.freeddns.org","compoundnode01.freeddns.org"},
 	{"compoundnode02.freeddns.org","compoundnode02.freeddns.org"},
 	{"compoundnode03.freeddns.org","compoundnode03.freeddns.org"},
+	{"50.81.49.122","50.81.49.122"},
+	{"92.232.89.17","92.232.89.17"},
+	{"82.64.109.25","82.64.109.25"},
+	{"75.119.137.26","75.119.137.26"},
+	{"188.165.3.89","188.165.3.89"}
 
 };
 
